@@ -1,0 +1,25 @@
+/* Change the background color to purple */
+body {
+  background-color: purple ;
+}
+
+/* Style the h1 heading with a different font and color */
+h1 {
+  font-family: Arial, sans-serif;
+  color: #fff;
+}
+
+/* Add a border to the image */
+img {
+  border: 5px solid #fff;
+}
+
+/* Style the links to have a teal color and underline on hover */
+a {
+  color: #008080;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
